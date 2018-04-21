@@ -1,6 +1,6 @@
 # my-project
 
-> An electron-vue project
+> An IM for Test
 
 #### Build Setup
 
